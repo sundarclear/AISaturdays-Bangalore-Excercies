@@ -16,21 +16,3 @@ https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_n
 [AI Convolutional Neural Network (CNN):]
 https://en.wikipedia.org/wiki/Convolutional_neural_network
 
-[AI Recurrent Neural Network (RNN):]
-https://en.wikipedia.org/wiki/Recurrent_neural_network
-
-
-[Session 3: Aug-18 2018]
-What are Activation Models? Why do we need to Non-Linearity?
-Convolutional Neural Networks.
-
-[Model Classification]
-Under Fitting: [High Bias]
-Just Right 
-Over Fitting, generally clasiffication are very accurate, but Train Dataset accuracy is very high, but Dev Dataset accuracy is very low, then model is not generallized. [High Variance]
-
-Data should be cleaned well during Training phase. Preferably without noise, so the model classification results are not biased.
-
-Train Accuracy mutiple and Test Accuracy helps in training optimization.
-
-[Optimizing Training]
