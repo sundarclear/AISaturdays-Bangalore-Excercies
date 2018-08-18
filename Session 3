@@ -1,4 +1,5 @@
 [Session 3: Aug-18 2018]
+
 What are Activation Models? Why do we need to Non-Linearity?
 https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
 
@@ -17,5 +18,27 @@ For [High Variance]
 
 L1 and L2 
 COST Function help in cost regularization.
+Gradient Descent!!
+
+Drop out Regularization. ("Inverted Dropout"), it helps in reducing High variance.
 
 [Optimizing Training]
+Weight Initialization. normalizing the input.
+Weight Matrix.
+Vanishing or Exploring Gradient.
+Managing Training Rate.
+ruder.io
+http://ruder.io/optimizing-gradient-descent/
+Adam Optimizationo
+ADADelta
+
+Gradient Checking: Back Propogation & Forward Propogation.
+
+[Function Chain Rule]
+Weight Reduction.
+
+[HyperParam]
+
+
+
+3blue1brown
